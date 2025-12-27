@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Loop {
     public static void main(String[] args) {
-        List list = new ArrayList();
+        List<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(3);
         list.add(5);
